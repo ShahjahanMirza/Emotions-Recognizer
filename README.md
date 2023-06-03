@@ -1,5 +1,5 @@
 # Emotions-Recognizer
-## *Run the deployed version: [click me][(https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/) ]😎
+## *Run the deployed version: [click me][https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/]😎
 
 
 
