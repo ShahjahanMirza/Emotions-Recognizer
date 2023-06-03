@@ -1,7 +1,5 @@
 # Emotions-Recognizer
-
-run the program with this link : [click me]https://shahjahanmirza-emotions-recognizer-main-17mh24.streamlit.app/
-
+## *Run the deployed version: [click me][(https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/) ]😎
 
 
 
