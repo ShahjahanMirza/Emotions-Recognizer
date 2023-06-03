@@ -1,12 +1,11 @@
 # Emotions-Recognizer
 ## *Run the deployed version: [click me](https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/)😎
 
+This a simple program, which classifies your feeling by analysing your message.
 
+It is built using Python.
 
-
-
-
-
+It can be improved by using better text libraries instead of using CountVectorizer.
 
 # Hi, I'm Shahjahan! 👋
 
