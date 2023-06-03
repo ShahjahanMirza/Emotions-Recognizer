@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 import numpy as np
+import sklearn
 
 # emotions
 labeled_emotions = { 0:'anger',  1:'fear', 2:'joy', 3:'love', 4:'sadness',5:'surprise'}
