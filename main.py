@@ -7,7 +7,7 @@ import numpy as np
 labeled_emotions = { 0:'anger',  1:'fear', 2:'joy', 3:'love', 4:'sadness',5:'surprise'}
 
 # load model using pickle
-model = pickle.load(open('emotion_predictor_model.pkl','rb'))
+model = joblib.load('joblib_emotion_predictor_model.pkl')
 
 # title
 st.title('Emotions Recognizer')
