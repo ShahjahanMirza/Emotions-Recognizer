@@ -1,6 +1,6 @@
 # Emotions-Recognizer
 
-run the program with this link : [click me] ( https://shahjahanmirza-emotions-recognizer-main-17mh24.streamlit.app/ )
+run the program with this link : [click me]https://shahjahanmirza-emotions-recognizer-main-17mh24.streamlit.app/
 
 
 
