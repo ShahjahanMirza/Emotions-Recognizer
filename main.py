@@ -1,3 +1,5 @@
+pip install --force-reinstall scikit-learn
+
 import streamlit as st
 import pandas as pd
 import joblib
