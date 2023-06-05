@@ -1,6 +1,8 @@
 # Emotions-Recognizer
 ## *Run the deployed version: [click me](https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/)😎
 
+![Screenshot 2023-06-06 002046](https://github.com/ShahjahanMirza/Emotions-Recognizer/assets/103453568/0d81a771-15a8-437f-a781-630c6a953fda)
+
 This a simple program, which classifies your feeling by analysing your message.
 
 It is built using Python.
